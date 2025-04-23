@@ -1,0 +1,16 @@
+[
+    {
+        "title": "Your Fault",
+        "author": "Cupla Tuya",
+        "year": 2024,
+        "genre": "Romance",
+        "read": false
+    },
+    {
+        "title": "Your Fault",
+        "author": "Culpa Tuya",
+        "year": 2024,
+        "genre": "Romance",
+        "read": false
+    }
+]

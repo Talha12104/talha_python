@@ -1,0 +1,9 @@
+[
+    {
+        "title": "My Fault",
+        "author": "Culpa Mia",
+        "year": 2023,
+        "genre": "Romance/Adult",
+        "read": false
+    }
+]
